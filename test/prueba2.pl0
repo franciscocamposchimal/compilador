@@ -1,0 +1,9 @@
+BEGIN
+ b=1,
+ c=0,
+CONST 
+d = 0,
+
+c= b+d,
+
+END;
